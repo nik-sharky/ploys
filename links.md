@@ -5,6 +5,7 @@
 * [Atomic force microscope](http://www.instructables.com/id/A-DIY-AFM-Whokshop/)
 * [Optical spectrometer using peace of DVD as grating](http://www.instructables.com/id/DIY-Spectrometer-Explore-the-Unknown-/)
 * [Raman spectrometer](https://publiclab.org/notes/emontoya57/12-16-2015/a-homemade-cost-effective-raman-spectrometer-with-high-performance)
+* [Capacitance camera from touchscreen](http://www.optisimon.com/raspberrypi/touch/ft5406/2016/07/13/raspberry-pi-7-inch-touchscreen-hacking/)
 * [OpenEEG project](http://openeeg.sourceforge.net/doc/)
 * [One channel EEG/ECG](http://www.instructables.com/id/DIY-EEG-and-ECG-Circuit/)
 
