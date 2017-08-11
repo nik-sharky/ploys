@@ -11,6 +11,7 @@
 
 # Interesting researches
 * [Visual microphone](http://people.csail.mit.edu/mrub/VisualMic/)
+* [CV laboratory Columbia univ.](http://www.cs.columbia.edu/CAVE/projects/)
 
 # Software
 * [The MATLAB toolbox for MEG and EEG analysis](http://www.fieldtriptoolbox.org/start)
