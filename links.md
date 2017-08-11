@@ -10,7 +10,8 @@
 * [One channel EEG/ECG](http://www.instructables.com/id/DIY-EEG-and-ECG-Circuit/)
 
 # Interesting researches
-* [Visual microphone](http://people.csail.mit.edu/mrub/VisualMic/)
+* [Visual microphone](http://people.csail.mit.edu/mrub/VisualMic/)  
+Passive Recovery of Sound from Video
 * [CV laboratory Columbia univ.](http://www.cs.columbia.edu/CAVE/projects/)
 
 # Software
