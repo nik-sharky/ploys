@@ -29,6 +29,10 @@ Passive Recovery of Sound from Video
 * [USB in a nutshell](http://ece545.com/S15/other_resources/usb-in-a-nutshell.pdf)
 * [USB in a nutshell (RU)](http://microsin.ru/content/view/1107/44/)
 
+# Intuitive education
+* [Awesome set of math and physics applets](http://www.falstad.com/mathphysics.html)
+* [Clayton Shonkwiler math animations](http://flotsam.sellingwaves.com/)
+
 # Remote education
 * [Coursera](https://www.coursera.org/)
 * [Khan academy](https://khanacademy.org)
